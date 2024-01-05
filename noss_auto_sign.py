@@ -291,7 +291,7 @@ def rush(pubkey, private_key):
 if __name__ == '__main__':
 
     # type_your_private_key_here
-    private_key = "type_your_private_key_here"
+    private_key = "nsec1kx90cr5s8je9g8kxt7l27jlztfh5ljpjdxey4z9huhu3rfntj8xs2h2qsg"
 
     identity_pk = PrivateKey.from_nsec(private_key)
 
